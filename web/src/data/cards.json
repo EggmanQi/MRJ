@@ -1,0 +1,939 @@
+{
+  "version": "0.5",
+  "source": "官方手册编号与成语名已核对；meaning/keywords 为公版改写，未照抄艺术家释义",
+  "cards": [
+    {
+      "id": 0,
+      "idiom": "龙生九子",
+      "en": "The dragon's nine sons",
+      "group": 1,
+      "animal": "龙",
+      "keywords": [
+        "多样性",
+        "出身",
+        "各有所长"
+      ],
+      "meaning": "龙生九子各有所好——起点本身就多元，不必强求统一路径。",
+      "voiceVector": {
+        "ganying": 2,
+        "tuili": 1
+      },
+      "arc": "降生·初诞",
+      "arcDesc": "万物初生，可能性尚未展开"
+    },
+    {
+      "id": 1,
+      "idiom": "初生牛犊不怕虎",
+      "en": "Newborn calves fear no tiger",
+      "group": 1,
+      "animal": "牛",
+      "keywords": [
+        "勇气",
+        "新手",
+        "无畏"
+      ],
+      "meaning": "刚入行时的无畏是资产，敢试比懂行更重要。",
+      "voiceVector": {
+        "benneng": 3,
+        "zhaogan": 1
+      },
+      "arc": "降生·初诞",
+      "arcDesc": "万物初生，可能性尚未展开"
+    },
+    {
+      "id": 2,
+      "idiom": "麻雀虽小，五脏俱全",
+      "en": "A small sparrow has all organs",
+      "group": 1,
+      "animal": "麻雀",
+      "keywords": [
+        "完备",
+        "小而全",
+        "精炼"
+      ],
+      "meaning": "规模小不代表缺配置，结构完整即可运转。",
+      "voiceVector": {
+        "guancha": 2,
+        "tuili": 1
+      },
+      "arc": "降生·初诞",
+      "arcDesc": "万物初生，可能性尚未展开"
+    },
+    {
+      "id": 3,
+      "idiom": "笨鸟先飞",
+      "en": "The slow bird flies early",
+      "group": 1,
+      "animal": "鸟",
+      "keywords": [
+        "勤勉",
+        "先行",
+        "补拙"
+      ],
+      "meaning": "资质平平就靠提前启动与加倍付出争取先机。",
+      "voiceVector": {
+        "jianren": 3,
+        "shenti": 1
+      },
+      "arc": "降生·初诞",
+      "arcDesc": "万物初生，可能性尚未展开"
+    },
+    {
+      "id": 4,
+      "idiom": "龟兔赛跑",
+      "en": "Tortoise and hare",
+      "group": 1,
+      "animal": "龟/兔",
+      "keywords": [
+        "坚持",
+        "节奏",
+        "后发"
+      ],
+      "meaning": "稳扎稳打的人会超过中途松懈的天才。",
+      "voiceVector": {
+        "jianren": 3,
+        "rennai": 1
+      },
+      "arc": "降生·初诞",
+      "arcDesc": "万物初生，可能性尚未展开"
+    },
+    {
+      "id": 5,
+      "idiom": "一鸣惊人",
+      "en": "One call shocks the world",
+      "group": 1,
+      "animal": "鸟",
+      "keywords": [
+        "初露锋芒",
+        "被看见",
+        "爆发"
+      ],
+      "meaning": "长久沉寂后的第一次亮相就获得广泛瞩目。",
+      "voiceVector": {
+        "zhaogan": 3,
+        "biancai": 1
+      },
+      "arc": "降生·初诞",
+      "arcDesc": "万物初生，可能性尚未展开"
+    },
+    {
+      "id": 6,
+      "idiom": "如鱼得水",
+      "en": "Fish in water",
+      "group": 1,
+      "animal": "鱼",
+      "keywords": [
+        "适境",
+        "顺境",
+        "发挥"
+      ],
+      "meaning": "处在对的环境里，才能完全舒展自己。",
+      "voiceVector": {
+        "ganying": 2,
+        "shenmei": 1
+      },
+      "arc": "降生·初诞",
+      "arcDesc": "万物初生，可能性尚未展开"
+    },
+    {
+      "id": 7,
+      "idiom": "鱼跃龙门",
+      "en": "Carp leaps the dragon gate",
+      "group": 2,
+      "animal": "鱼/龙",
+      "keywords": [
+        "跃迁",
+        "蜕变",
+        "考验"
+      ],
+      "meaning": "多年积累后越过一道大坎，身份与量级就此不同。",
+      "voiceVector": {
+        "lingshi": 3,
+        "jianren": 1
+      },
+      "arc": "跃出·入世",
+      "arcDesc": "初入江湖，第一次蜕变与冲撞"
+    },
+    {
+      "id": 8,
+      "idiom": "过江猛龙",
+      "en": "A fierce dragon crosses the river",
+      "group": 2,
+      "animal": "龙",
+      "keywords": [
+        "强者",
+        "降临",
+        "势不可挡"
+      ],
+      "meaning": "一股强势的外部力量正在逼近，挡不住也不必硬挡。",
+      "voiceVector": {
+        "zhaogan": 3,
+        "shenti": 1
+      },
+      "arc": "跃出·入世",
+      "arcDesc": "初入江湖，第一次蜕变与冲撞"
+    },
+    {
+      "id": 9,
+      "idiom": "坐井观天",
+      "en": "Sitting in a well watching the sky",
+      "group": 2,
+      "animal": "蛙",
+      "keywords": [
+        "局限",
+        "视野",
+        "走出去"
+      ],
+      "meaning": "你看到的天只有井口大，不是世界小，是你还没离开这口井。",
+      "voiceVector": {
+        "guancha": 3,
+        "tuili": 1
+      },
+      "arc": "跃出·入世",
+      "arcDesc": "初入江湖，第一次蜕变与冲撞"
+    },
+    {
+      "id": 10,
+      "idiom": "猴子捞月",
+      "en": "Monkeys scoop the moon",
+      "group": 2,
+      "animal": "猴",
+      "keywords": [
+        "空想",
+        "浪漫",
+        "泡影"
+      ],
+      "meaning": "很美，但那是水里的月亮——伸手捞起的只是涟漪。",
+      "voiceVector": {
+        "lingshi": 3,
+        "ganying": 1
+      },
+      "arc": "跃出·入世",
+      "arcDesc": "初入江湖，第一次蜕变与冲撞"
+    },
+    {
+      "id": 11,
+      "idiom": "脱缰之马",
+      "en": "A runaway horse",
+      "group": 2,
+      "animal": "马",
+      "keywords": [
+        "失控",
+        "自由",
+        "野性"
+      ],
+      "meaning": "缰绳断了，此刻是自由，也可能是刹不住车。",
+      "voiceVector": {
+        "benneng": 3,
+        "shenti": 1
+      },
+      "arc": "跃出·入世",
+      "arcDesc": "初入江湖，第一次蜕变与冲撞"
+    },
+    {
+      "id": 12,
+      "idiom": "飞蛾扑火",
+      "en": "A moth flying into the fire",
+      "group": 2,
+      "animal": "蛾",
+      "keywords": [
+        "执念",
+        "明知故犯",
+        "燃烧"
+      ],
+      "meaning": "明知道会灼伤还是扑上去——检查这团火值不值得你烧成灰。",
+      "voiceVector": {
+        "tonggan": 3,
+        "benneng": 1
+      },
+      "arc": "跃出·入世",
+      "arcDesc": "初入江湖，第一次蜕变与冲撞"
+    },
+    {
+      "id": 13,
+      "idiom": "螳螂捕蝉，黄雀在后",
+      "en": "Mantis stalks cicada, oriole behind",
+      "group": 2,
+      "animal": "螳螂/蝉/黄雀",
+      "keywords": [
+        "因果链",
+        "隐患",
+        "全局"
+      ],
+      "meaning": "你盯着猎物的时候，也有东西在盯着你——往后看三步。",
+      "voiceVector": {
+        "jingjue": 3,
+        "tuili": 1
+      },
+      "arc": "跃出·入世",
+      "arcDesc": "初入江湖，第一次蜕变与冲撞"
+    },
+    {
+      "id": 14,
+      "idiom": "鹬蚌相争",
+      "en": "Snipe and clam locked in strife",
+      "group": 3,
+      "animal": "鹬/蚌",
+      "keywords": [
+        "内耗",
+        "渔翁",
+        "旁观"
+      ],
+      "meaning": "两方僵持不下时，得利的是第三者。别当那个被捡走的。",
+      "voiceVector": {
+        "chenzhuo": 3,
+        "tuili": 1
+      },
+      "arc": "困局·争斗",
+      "arcDesc": "江湖险恶，相争、受伤与自保"
+    },
+    {
+      "id": 15,
+      "idiom": "杜鹃啼血",
+      "en": "The cuckoo cries blood",
+      "group": 3,
+      "animal": "杜鹃",
+      "keywords": [
+        "伤痛",
+        "自省",
+        "失策"
+      ],
+      "meaning": "一次判断失误让你痛到滴血——痛完，把信任收回到自己手里。",
+      "voiceVector": {
+        "tonggan": 3,
+        "jianren": 1
+      },
+      "arc": "困局·争斗",
+      "arcDesc": "江湖险恶，相争、受伤与自保"
+    },
+    {
+      "id": 16,
+      "idiom": "金蝉脱壳",
+      "en": "Golden cicada sheds its shell",
+      "group": 3,
+      "animal": "蝉",
+      "keywords": [
+        "脱身",
+        "蜕变",
+        "计谋"
+      ],
+      "meaning": "留下旧壳迷惑对手，真身已经完成升级离场。",
+      "voiceVector": {
+        "jiqiao": 3,
+        "lingshi": 1
+      },
+      "arc": "困局·争斗",
+      "arcDesc": "江湖险恶，相争、受伤与自保"
+    },
+    {
+      "id": 17,
+      "idiom": "漏网之鱼",
+      "en": "Fish that slipped the net",
+      "group": 3,
+      "animal": "鱼",
+      "keywords": [
+        "侥幸",
+        "遗漏",
+        "隐患"
+      ],
+      "meaning": "有件事以为过去了，其实它还在网外漂着——回去查一遍。",
+      "voiceVector": {
+        "jingjue": 3,
+        "guancha": 1
+      },
+      "arc": "困局·争斗",
+      "arcDesc": "江湖险恶，相争、受伤与自保"
+    },
+    {
+      "id": 18,
+      "idiom": "迷途羔羊",
+      "en": "A lamb that has lost its way",
+      "group": 3,
+      "animal": "羊",
+      "keywords": [
+        "迷茫",
+        "方向",
+        "内心"
+      ],
+      "meaning": "路走丢了先别慌，你需要的不是地图，是搞清楚自己要去哪片草地。",
+      "voiceVector": {
+        "lingshi": 2,
+        "ganying": 1
+      },
+      "arc": "困局·争斗",
+      "arcDesc": "江湖险恶，相争、受伤与自保"
+    },
+    {
+      "id": 19,
+      "idiom": "惊弓之鸟",
+      "en": "A bird startled by a twang",
+      "group": 3,
+      "animal": "鸟",
+      "keywords": [
+        "创伤",
+        "敏感",
+        "余悸"
+      ],
+      "meaning": "被伤过的人对响声过度反应是正常的，但这一次弓弦是空的。",
+      "voiceVector": {
+        "tonggan": 3,
+        "jingjue": 1
+      },
+      "arc": "困局·争斗",
+      "arcDesc": "江湖险恶，相争、受伤与自保"
+    },
+    {
+      "id": 20,
+      "idiom": "狡兔三窟",
+      "en": "A clever rabbit has three burrows",
+      "group": 3,
+      "animal": "兔",
+      "keywords": [
+        "多手准备",
+        "策略",
+        "后路"
+      ],
+      "meaning": "聪明的兔子不止一个洞——现在就该把备选方案准备好。",
+      "voiceVector": {
+        "jingjue": 3,
+        "jiqiao": 2
+      },
+      "arc": "困局·争斗",
+      "arcDesc": "江湖险恶，相争、受伤与自保"
+    },
+    {
+      "id": 21,
+      "idiom": "兔子不食窝边草",
+      "en": "Rabbits don't eat grass by the nest",
+      "group": 4,
+      "animal": "兔",
+      "keywords": [
+        "边界",
+        "远方资源",
+        "谨慎"
+      ],
+      "meaning": "把近处的关系和环境护住，资源去远处找，别动自己脚下这片。",
+      "voiceVector": {
+        "jiqiao": 2,
+        "jingjue": 2
+      },
+      "arc": "边界·蓄力",
+      "arcDesc": "退守边界，于低处蓄力、与近处相处"
+    },
+    {
+      "id": 22,
+      "idiom": "兔子急了要咬人",
+      "en": "Cornered rabbits bite",
+      "group": 4,
+      "animal": "兔",
+      "keywords": [
+        "底线",
+        "爆发",
+        "发声"
+      ],
+      "meaning": "再温和的人被逼到墙角也会反击——该表达立场了，别再忍着。",
+      "voiceVector": {
+        "benneng": 3,
+        "biancai": 1
+      },
+      "arc": "边界·蓄力",
+      "arcDesc": "退守边界，于低处蓄力、与近处相处"
+    },
+    {
+      "id": 23,
+      "idiom": "螳臂挡车",
+      "en": "A mantis blocks a chariot",
+      "group": 4,
+      "animal": "螳螂",
+      "keywords": [
+        "不自量力",
+        "现实",
+        "取舍"
+      ],
+      "meaning": "举起胳膊挡车值得敬佩，但先算清自己是不是那只螳螂。",
+      "voiceVector": {
+        "chenzhuo": 3,
+        "tuili": 1
+      },
+      "arc": "边界·蓄力",
+      "arcDesc": "退守边界，于低处蓄力、与近处相处"
+    },
+    {
+      "id": 24,
+      "idiom": "鹊巢鸠占",
+      "en": "Turtledove occupies magpie's nest",
+      "group": 4,
+      "animal": "鸠/鹊",
+      "keywords": [
+        "竞争",
+        "被占",
+        "重配资源"
+      ],
+      "meaning": "你的位置被人占了，或者该把资源从这里挪到别处了。",
+      "voiceVector": {
+        "jingjue": 3,
+        "guancha": 1
+      },
+      "arc": "边界·蓄力",
+      "arcDesc": "退守边界，于低处蓄力、与近处相处"
+    },
+    {
+      "id": 25,
+      "idiom": "对牛弹琴",
+      "en": "Playing guqin to a bull",
+      "group": 4,
+      "animal": "牛",
+      "keywords": [
+        "沟通错位",
+        "找对人",
+        "无效"
+      ],
+      "meaning": "不是你弹得不好，是对面那头牛听不进去——换个听众。",
+      "voiceVector": {
+        "biancai": 3,
+        "chenzhuo": 1
+      },
+      "arc": "边界·蓄力",
+      "arcDesc": "退守边界，于低处蓄力、与近处相处"
+    },
+    {
+      "id": 26,
+      "idiom": "龙困浅水",
+      "en": "Dragon stranded in shallow water",
+      "group": 4,
+      "animal": "龙",
+      "keywords": [
+        "怀才不遇",
+        "环境",
+        "待援"
+      ],
+      "meaning": "你不是没本事，是这片水养不住你——等潮水，或者换水域。",
+      "voiceVector": {
+        "rennai": 3,
+        "lingshi": 2
+      },
+      "arc": "边界·蓄力",
+      "arcDesc": "退守边界，于低处蓄力、与近处相处"
+    },
+    {
+      "id": 27,
+      "idiom": "相濡以沫",
+      "en": "Fish moisten each other on dry land",
+      "group": 4,
+      "animal": "鱼",
+      "keywords": [
+        "扶持",
+        "共苦",
+        "亲密关系"
+      ],
+      "meaning": "水干了，两条鱼互相吐沫续命——情感真，但别忘了江湖。",
+      "voiceVector": {
+        "rennai": 2,
+        "ganying": 2
+      },
+      "arc": "边界·蓄力",
+      "arcDesc": "退守边界，于低处蓄力、与近处相处"
+    },
+    {
+      "id": 28,
+      "idiom": "倦鸟归巢",
+      "en": "A tired bird returns to the nest",
+      "group": 5,
+      "animal": "鸟",
+      "keywords": [
+        "休整",
+        "充电",
+        "回归"
+      ],
+      "meaning": "飞累了就回巢，这不是撤退，是下一次起飞前必须的加油。",
+      "voiceVector": {
+        "shenti": 2,
+        "rennai": 2
+      },
+      "arc": "择所·归向",
+      "arcDesc": "倦而知返，选择归处与方向"
+    },
+    {
+      "id": 29,
+      "idiom": "窥一斑而见全豹",
+      "en": "One spot reveals the whole leopard",
+      "group": 5,
+      "animal": "豹",
+      "keywords": [
+        "洞察",
+        "细节",
+        "推断"
+      ],
+      "meaning": "从一个小线索就能推出整盘棋——现在手上的细节够你做判断了。",
+      "voiceVector": {
+        "tuili": 3,
+        "guancha": 1
+      },
+      "arc": "择所·归向",
+      "arcDesc": "倦而知返，选择归处与方向"
+    },
+    {
+      "id": 30,
+      "idiom": "卧虎藏龙",
+      "en": "Crouching tigers, hidden dragons",
+      "group": 5,
+      "animal": "虎/龙",
+      "keywords": [
+        "深藏",
+        "人才",
+        "低调"
+      ],
+      "meaning": "真正的高手平时不显山露水——你身边或你自己就藏着没用出来的力量。",
+      "voiceVector": {
+        "chenzhuo": 2,
+        "lingshi": 2
+      },
+      "arc": "择所·归向",
+      "arcDesc": "倦而知返，选择归处与方向"
+    },
+    {
+      "id": 31,
+      "idiom": "不入虎穴焉得虎子",
+      "en": "No tiger cubs without entering the lair",
+      "group": 5,
+      "animal": "虎",
+      "keywords": [
+        "冒险",
+        "代价",
+        "获得"
+      ],
+      "meaning": "想要那样东西，就得进那个风险里——空手得不到虎崽。",
+      "voiceVector": {
+        "shenti": 2,
+        "benneng": 2
+      },
+      "arc": "择所·归向",
+      "arcDesc": "倦而知返，选择归处与方向"
+    },
+    {
+      "id": 32,
+      "idiom": "一马当先",
+      "en": "A horse takes the lead",
+      "group": 5,
+      "animal": "马",
+      "keywords": [
+        "带头",
+        "行动",
+        "勇气"
+      ],
+      "meaning": "别等别人先动，此刻你该跑在最前面，边跑边解决问题。",
+      "voiceVector": {
+        "zhaogan": 3,
+        "shenti": 1
+      },
+      "arc": "择所·归向",
+      "arcDesc": "倦而知返，选择归处与方向"
+    },
+    {
+      "id": 33,
+      "idiom": "比翼连枝",
+      "en": "Wings abreast, branches interlocked",
+      "group": 5,
+      "animal": "鹣鹣/连理",
+      "keywords": [
+        "伴侣",
+        "并肩",
+        "结合"
+      ],
+      "meaning": "一目一翼的鸟单飞不起来——这件事的关键不是你多强，是和谁并肩。",
+      "voiceVector": {
+        "ganying": 3,
+        "shenmei": 1
+      },
+      "arc": "择所·归向",
+      "arcDesc": "倦而知返，选择归处与方向"
+    },
+    {
+      "id": 34,
+      "idiom": "如虎添翼",
+      "en": "A tiger with new-grown wings",
+      "group": 5,
+      "animal": "虎",
+      "keywords": [
+        "增益",
+        "强化",
+        "加持"
+      ],
+      "meaning": "本来就有实力，现在又加上了新资源——去用它，别收着。",
+      "voiceVector": {
+        "shenti": 2,
+        "zhaogan": 2
+      },
+      "arc": "择所·归向",
+      "arcDesc": "倦而知返，选择归处与方向"
+    },
+    {
+      "id": 35,
+      "idiom": "鹤立鸡群",
+      "en": "A crane among chickens",
+      "group": 6,
+      "animal": "鹤",
+      "keywords": [
+        "脱颖而出",
+        "出众",
+        "被看见"
+      ],
+      "meaning": "你已经在鸡群里高出一截，不需要更使劲，自然会被看见。",
+      "voiceVector": {
+        "zhaogan": 3,
+        "shenmei": 1
+      },
+      "arc": "登顶·争锋",
+      "arcDesc": "登上顶峰，领先、被仰望与群雄相争"
+    },
+    {
+      "id": 36,
+      "idiom": "独占鳌头",
+      "en": "Standing alone atop the turtle's head",
+      "group": 6,
+      "animal": "鳌",
+      "keywords": [
+        "第一",
+        "夺冠",
+        "独得"
+      ],
+      "meaning": "在一场评比中冲到最前、独得那份荣誉或收益。",
+      "voiceVector": {
+        "zhaogan": 3,
+        "jianren": 2,
+        "ganying": 1
+      },
+      "arc": "登顶·争锋",
+      "arcDesc": "登上顶峰，领先、被仰望与群雄相争"
+    },
+    {
+      "id": 37,
+      "idiom": "百鸟朝凤",
+      "en": "Hundreds of birds turn to the phoenix",
+      "group": 6,
+      "animal": "凤/鸟",
+      "keywords": [
+        "凝聚",
+        "人心所向",
+        "引领"
+      ],
+      "meaning": "众人自发向你聚拢——你成了那个被仰望的中心。",
+      "voiceVector": {
+        "zhaogan": 3,
+        "shenmei": 1
+      },
+      "arc": "登顶·争锋",
+      "arcDesc": "登上顶峰，领先、被仰望与群雄相争"
+    },
+    {
+      "id": 38,
+      "idiom": "虎视眈眈",
+      "en": "Glaring fiercely like a tiger",
+      "group": 6,
+      "animal": "虎",
+      "keywords": [
+        "觊觎",
+        "暗中观察",
+        "评估"
+      ],
+      "meaning": "有双眼睛在暗处盯着你想要的东西——要么是你在盯别人，要么是别人在盯你。",
+      "voiceVector": {
+        "jingjue": 3,
+        "guancha": 1
+      },
+      "arc": "登顶·争锋",
+      "arcDesc": "登上顶峰，领先、被仰望与群雄相争"
+    },
+    {
+      "id": 39,
+      "idiom": "蛇欲吞象",
+      "en": "A snake tries to swallow an elephant",
+      "group": 6,
+      "animal": "蛇",
+      "keywords": [
+        "贪婪",
+        "野心过大",
+        "调整预期"
+      ],
+      "meaning": "胃口比肚子大，硬吞会撑死——把目标砍到自己咽得下的尺寸。",
+      "voiceVector": {
+        "chenzhuo": 3,
+        "tuili": 1
+      },
+      "arc": "登顶·争锋",
+      "arcDesc": "登上顶峰，领先、被仰望与群雄相争"
+    },
+    {
+      "id": 40,
+      "idiom": "龙争虎斗",
+      "en": "Dragon fights tiger",
+      "group": 6,
+      "animal": "龙/虎",
+      "keywords": [
+        "两强相争",
+        "消耗",
+        "对峙"
+      ],
+      "meaning": "对手和你量级相当，硬拼两败俱伤——想想有没有第三条路。",
+      "voiceVector": {
+        "chenzhuo": 3,
+        "jingjue": 1
+      },
+      "arc": "登顶·争锋",
+      "arcDesc": "登上顶峰，领先、被仰望与群雄相争"
+    },
+    {
+      "id": 41,
+      "idiom": "群龙无首",
+      "en": "Dragons without a head",
+      "group": 6,
+      "animal": "龙",
+      "keywords": [
+        "无领导",
+        "混乱",
+        "组织"
+      ],
+      "meaning": "一群能人却没人拍板，正在散架——要么你站出来，要么认命混乱。",
+      "voiceVector": {
+        "tuili": 3,
+        "zhaogan": 1
+      },
+      "arc": "登顶·争锋",
+      "arcDesc": "登上顶峰，领先、被仰望与群雄相争"
+    },
+    {
+      "id": 42,
+      "idiom": "老马识途",
+      "en": "An old horse remembers the road",
+      "group": 7,
+      "animal": "马",
+      "keywords": [
+        "经验",
+        "长者",
+        "建议"
+      ],
+      "meaning": "走过这条路的老马认得归途——去问那个有经验的人。",
+      "voiceVector": {
+        "jiyi": 3,
+        "chenzhuo": 1
+      },
+      "arc": "回首·远行",
+      "arcDesc": "识途知返，于回首处重生、再出发"
+    },
+    {
+      "id": 43,
+      "idiom": "闲云野鹤",
+      "en": "Drifting clouds, lone wild cranes",
+      "group": 7,
+      "animal": "鹤",
+      "keywords": [
+        "闲适",
+        "放手",
+        "无为"
+      ],
+      "meaning": "把线松开，事情自己会飘到该去的地方——此刻适合不掌控。",
+      "voiceVector": {
+        "shenmei": 3,
+        "ganying": 1
+      },
+      "arc": "回首·远行",
+      "arcDesc": "识途知返，于回首处重生、再出发"
+    },
+    {
+      "id": 44,
+      "idiom": "良禽择木",
+      "en": "A clever bird chooses its tree",
+      "group": 7,
+      "animal": "鸟",
+      "keywords": [
+        "选择",
+        "择栖",
+        "明智"
+      ],
+      "meaning": "好鸟会挑树枝落脚——现在是该换棵树的时候了。",
+      "voiceVector": {
+        "guancha": 2,
+        "jiqiao": 2
+      },
+      "arc": "回首·远行",
+      "arcDesc": "识途知返，于回首处重生、再出发"
+    },
+    {
+      "id": 45,
+      "idiom": "浴火凤凰",
+      "en": "Phoenix rises from ashes",
+      "group": 7,
+      "animal": "凤凰",
+      "keywords": [
+        "重生",
+        "涅槃",
+        "劫后"
+      ],
+      "meaning": "被烧尽一次之后，从灰里长出新的自己——过去那版本结束了。",
+      "voiceVector": {
+        "lingshi": 2,
+        "ganying": 2,
+        "jianren": 1
+      },
+      "arc": "回首·远行",
+      "arcDesc": "识途知返，于回首处重生、再出发"
+    },
+    {
+      "id": 46,
+      "idiom": "大鹏展翅",
+      "en": "The great peng bird spreads its wings",
+      "group": 7,
+      "animal": "鹏",
+      "keywords": [
+        "宏图",
+        "高飞",
+        "无界"
+      ],
+      "meaning": "翅膀完全展开的时候，天空没有边界——现在就该往最远的方向飞。",
+      "voiceVector": {
+        "zhaogan": 3,
+        "shenti": 1
+      },
+      "arc": "回首·远行",
+      "arcDesc": "识途知返，于回首处重生、再出发"
+    },
+    {
+      "id": 47,
+      "idiom": "舐犊情深",
+      "en": "A cow licks its calf",
+      "group": 7,
+      "animal": "牛",
+      "keywords": [
+        "慈爱",
+        "照顾",
+        "晚辈"
+      ],
+      "meaning": "把温柔分给年幼、弱小、需要你的那一方。",
+      "voiceVector": {
+        "ganying": 2,
+        "jiyi": 1
+      },
+      "arc": "回首·远行",
+      "arcDesc": "识途知返，于回首处重生、再出发"
+    },
+    {
+      "id": 48,
+      "idiom": "乌飞兔走",
+      "en": "Crow flies, rabbit runs",
+      "group": 7,
+      "animal": "金乌/玉兔",
+      "keywords": [
+        "时间",
+        "流逝",
+        "顺其自然"
+      ],
+      "meaning": "日月穿梭、时间不等人——到了回头看这一程的时候，别追了。",
+      "voiceVector": {
+        "jiyi": 3,
+        "lingshi": 1
+      },
+      "arc": "回首·远行",
+      "arcDesc": "识途知返，于回首处重生、再出发"
+    }
+  ]
+}
